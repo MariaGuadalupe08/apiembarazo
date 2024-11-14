@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'APPIx.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', #ENGINE es motor de BD
-                'NAME': 'dbapi',
-                'USER': 'root',
-                'PASSWORD': '',
-                'HOST': 'localhost',
+                'NAME': 'lloqgvkgezqn1z0s',
+                'USER': 'ulni71oxqezmzftb',
+                'PASSWORD': 'igic0y6ui8zb9tn1',
+                'HOST': 'g8r9w9tmspbwmsyo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
                 'PORT': '3306',
     }
 }
